@@ -23,8 +23,6 @@
 
 線上 PDF 工具要把檔案上傳到別人的伺服器，而且常有大小或次數限制；現有的開源工具則要架伺服器或安裝軟體。這個工具只有一個 `index.html`，打開就能用，程式碼也能自己檢查。
 
-詳細規格請見 [規格書.docx](規格書.docx)。
-
 ## 如何確認檔案沒有被上傳？
 
 - 網頁只會從 cdnjs 下載 [pdf-lib](https://pdf-lib.js.org/) 與 [pdf.js](https://mozilla.github.io/pdf.js/) 兩個開源元件庫的程式碼。
