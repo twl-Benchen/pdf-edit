@@ -36,5 +36,4 @@
 ```
 index.html      全部的 HTML、CSS、JavaScript
 assets/         網站圖示與介面截圖
-規格書.docx      作品規格書
 ```
